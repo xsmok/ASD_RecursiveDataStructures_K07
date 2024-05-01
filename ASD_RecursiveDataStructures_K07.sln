@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASD_RecursiveDataStructures_K07", "ASD_RecursiveDataStructures_K07.csproj", "{12B3DE33-DF6B-4A9D-8A15-AB533645CE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B3DE33-DF6B-4A9D-8A15-AB533645CE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B3DE33-DF6B-4A9D-8A15-AB533645CE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B3DE33-DF6B-4A9D-8A15-AB533645CE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B3DE33-DF6B-4A9D-8A15-AB533645CE54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D4108C2-B77F-46DF-9EE8-6121CB3E1359}
+	EndGlobalSection
+EndGlobal

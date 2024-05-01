@@ -1,0 +1,14 @@
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\bin\Debug\net8.0\ASD_RecursiveDataStructures_K07.exe
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\bin\Debug\net8.0\ASD_RecursiveDataStructures_K07.deps.json
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\bin\Debug\net8.0\ASD_RecursiveDataStructures_K07.runtimeconfig.json
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\bin\Debug\net8.0\ASD_RecursiveDataStructures_K07.dll
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\bin\Debug\net8.0\ASD_RecursiveDataStructures_K07.pdb
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0\ASD_RecursiveDataStructures_K07.GeneratedMSBuildEditorConfig.editorconfig
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0\ASD_RecursiveDataStructures_K07.AssemblyInfoInputs.cache
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0\ASD_RecursiveDataStructures_K07.AssemblyInfo.cs
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0\ASD_RecursiveDataStructures_K07.csproj.CoreCompileInputs.cache
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0\ASD_RecursiveDataStructures_K07.dll
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0\refint\ASD_RecursiveDataStructures_K07.dll
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0\ASD_RecursiveDataStructures_K07.pdb
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0\ASD_RecursiveDataStructures_K07.genruntimeconfig.cache
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0\ref\ASD_RecursiveDataStructures_K07.dll
