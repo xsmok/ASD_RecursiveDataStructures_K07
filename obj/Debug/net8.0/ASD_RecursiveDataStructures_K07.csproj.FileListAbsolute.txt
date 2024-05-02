@@ -12,3 +12,4 @@ e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0
 e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0\ASD_RecursiveDataStructures_K07.pdb
 e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0\ASD_RecursiveDataStructures_K07.genruntimeconfig.cache
 e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0\ref\ASD_RecursiveDataStructures_K07.dll
+e:\Pliki\projekty\wsb\sem2\aisd\ASD_RecursiveDataStructures_K07\obj\Debug\net8.0\ASD_RecursiveDataStructures_K07.sourcelink.json

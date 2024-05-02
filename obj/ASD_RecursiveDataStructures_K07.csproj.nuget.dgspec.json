@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Pliki\\projekty\\wsb\\sem2\\aisd\\ASD_RecursiveDataStructures_K07\\ASD_RecursiveDataStructures_K07.csproj": {}
+    "e:\\Pliki\\projekty\\wsb\\sem2\\aisd\\ASD_RecursiveDataStructures_K07\\ASD_RecursiveDataStructures_K07.csproj": {}
   },
   "projects": {
-    "E:\\Pliki\\projekty\\wsb\\sem2\\aisd\\ASD_RecursiveDataStructures_K07\\ASD_RecursiveDataStructures_K07.csproj": {
+    "e:\\Pliki\\projekty\\wsb\\sem2\\aisd\\ASD_RecursiveDataStructures_K07\\ASD_RecursiveDataStructures_K07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pliki\\projekty\\wsb\\sem2\\aisd\\ASD_RecursiveDataStructures_K07\\ASD_RecursiveDataStructures_K07.csproj",
+        "projectUniqueName": "e:\\Pliki\\projekty\\wsb\\sem2\\aisd\\ASD_RecursiveDataStructures_K07\\ASD_RecursiveDataStructures_K07.csproj",
         "projectName": "ASD_RecursiveDataStructures_K07",
-        "projectPath": "E:\\Pliki\\projekty\\wsb\\sem2\\aisd\\ASD_RecursiveDataStructures_K07\\ASD_RecursiveDataStructures_K07.csproj",
+        "projectPath": "e:\\Pliki\\projekty\\wsb\\sem2\\aisd\\ASD_RecursiveDataStructures_K07\\ASD_RecursiveDataStructures_K07.csproj",
         "packagesPath": "C:\\Users\\x\\.nuget\\packages\\",
-        "outputPath": "E:\\Pliki\\projekty\\wsb\\sem2\\aisd\\ASD_RecursiveDataStructures_K07\\obj\\",
+        "outputPath": "e:\\Pliki\\projekty\\wsb\\sem2\\aisd\\ASD_RecursiveDataStructures_K07\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\x\\AppData\\Roaming\\NuGet\\NuGet.Config"

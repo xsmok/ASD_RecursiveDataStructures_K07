@@ -35,7 +35,7 @@ namespace ASD_RecursiveDataStructures_K07
 			return numbers.OrderByDescending(n => n).ToArray();
 		}
 
-		public int[] VShape(int[] numbers)
+		public int[] AShape(int[] numbers)
 		{
 			int halfLength = numbers.Length / 2;
 			int[] firstHalf = new int[halfLength];

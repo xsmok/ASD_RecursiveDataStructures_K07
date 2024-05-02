@@ -16,7 +16,7 @@ namespace ASD_RecursiveDataStructures_K07
 		private int[] pickedNumbers;
 		private int[] ascendingNumbers;
 		private int[] descendingNumbers;
-		private int[] vShapeNumbers;
+		public int[] aShapeNumbers;
 		private dynamic structure;
         
 		public void LoadData(int n)
@@ -26,7 +26,7 @@ namespace ASD_RecursiveDataStructures_K07
 			pickedNumbers = dataSet.PickRandom(randomNumbers, n);
 			ascendingNumbers = dataSet.Order(randomNumbers, true);
 			descendingNumbers = dataSet.Order(randomNumbers, false);
-			vShapeNumbers = dataSet.VShape(randomNumbers);
+			aShapeNumbers = dataSet.AShape(randomNumbers);
 			stopWatch.Stop();
 
 			Console.WriteLine($"Time taken to generate dataset: {stopWatch.Elapsed}");
@@ -57,7 +57,7 @@ namespace ASD_RecursiveDataStructures_K07
 
 			structure = new T();
 			Console.WriteLine($"{structure} - vShapeNumbers");
-			ExperimentAdd(vShapeNumbers);
+			ExperimentAdd(aShapeNumbers);
 			ExperimentRead();
 			ExperimentReadAll();
 			ExperimentRemove();
